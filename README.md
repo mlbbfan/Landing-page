@@ -37,6 +37,3 @@ Install the Stackbit CLI. Then open a new terminal window in the same project di
 npm install -g @stackbit/cli
 stackbit dev
 ```
-
-
-[Join us on Discord](https://discord.gg/HUNhjVkznH) for community support and to showcase what you build with this starter.
