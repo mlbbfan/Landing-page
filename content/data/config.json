@@ -1,0 +1,159 @@
+{
+    "type": "Config",
+    "favicon": "/images/mlbblogo.png",
+    "header": {
+        "headerVariant": "variant-a",
+        "primaryColors": "colors-g",
+        "secondaryColors": "colors-f",
+        "title": "MLBB FAN",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "altText": "Home",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "altText": "About",
+                "url": "/#about",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "How To",
+                "altText": "How To",
+                "url": "/#buy",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Partners",
+                "altText": "Partners",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "FAN Token",
+                "altText": "Fan token",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "FAQ",
+                "altText": "Faq",
+                "url": "/#faq"
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "AIRDROP",
+                "url": "https://forms.gle/9f31Xojnku7RQYV29",
+                "altText": "Sign up",
+                "style": "primary",
+                "showIcon": false
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        },
+        "logo": {
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/mlbblogo.png"
+        }
+    },
+    "footer": {
+        "colors": "colors-d",
+        "logo": {
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/mlbblogo.png"
+        },
+        "title": "MLBB FAN",
+        "copyrightText": "© 2022 MLBB FAN. All Rights Reserved\n",
+        "primaryLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/mlbbfan",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Github",
+                "altText": "",
+                "url": "https://github.com/mlbbfan",
+                "icon": "github",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Telegram",
+                "altText": "Telegram",
+                "url": "https://t.me/mlbbfan",
+                "icon": "vimeo",
+                "style": "link",
+                "elementId": ""
+            }
+        ],
+        "legalLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        }
+    }
+}
