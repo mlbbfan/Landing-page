@@ -19,7 +19,7 @@ The typical development process is to begin by working locally.
 Fork this repo:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
+git clone --depth=1 https://github.com/mlbbfan/Landing-page.git my-project-name
 cd my-project-name
 npm install
 ```
